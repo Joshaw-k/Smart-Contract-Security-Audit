@@ -10,9 +10,9 @@ pragma solidity ^0.8.18;
  * @notice This is the Audited Contract that fixes the bugs identified in the `StorageVictim.sol` contract
  */
 
-contract StorageSecured {
+contract Secured {
     address immutable owner;
-
+Storage
     struct Storage {
         address user;
         uint256 amount;

@@ -141,10 +141,10 @@ State variable `owner` should be marked as immutable.
 
 ## Summary
 
-The contract `StorageVictim` contains 1 critical vulnerability, 1 medium vulnerability and 2 informational vulnerability. The recommended update might be
+The contract `Insecured` contains 1 critical vulnerability, 1 medium vulnerability and 2 informational vulnerability. The recommended update might be
 helpful in enhancing the security of the contract.
 
-The `StorageSecured` contract contains the fix and audited code based on the findings
+The `Secured` contract contains the fix and audited code based on the findings
 
 ## Disclaimer
 
