@@ -1,6 +1,6 @@
 # Smart Contract Security Audit Report
 
-This repository contains the audit report of the `StorageVictim` smart contract, along with the corrected and updated version of the contract, `StorageSecured`
+This repository contains the audit report of the `Insecured` smart contract, along with the corrected and updated version of the contract, `Secured`
 
 ## Table of Contents
 
